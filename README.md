@@ -51,11 +51,11 @@ Start by forking this repository to your own GitHub account. Click the button be
 
   <a href="https://github.com/JawadYTX/KHAN-AI/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN AI-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
-### 2. Get Session ID 
+### 2. Get Session ID 67wHATbA#XfuJfjHiVwK66KvZb8pyaXPiYwdEcAd2hLQ-aftL8gE
 
 You will need a session ID to run the KHAN-AI. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
-> **Get Pair Code (Session ID)**
+> **Get Pair Code (Session ID)**67wHATbA#XfuJfjHiVwK66KvZb8pyaXPiYwdEcAd2hLQ-aftL8gE
 
 <a href='https://romek-x-khan-ai.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
@@ -65,7 +65,7 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 ---
 
 <h2 align="center">Deployment Section</h2>
-
+67wHATbA#XfuJfjHiVwK66KvZb8pyaXPiYwdEcAd2hLQ-aftL8gE
 ---
 
 <h4 align="center">1. Heroku</h4>
@@ -89,7 +89,7 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 <br><br>
 
 ```
-SESSION_ID
+SESSION_ID 67wHATbA#XfuJfjHiVwK66KvZb8pyaXPiYwdEcAd2hLQ-aftL8gE
 ```
 ```
 PREFIX
@@ -215,7 +215,7 @@ jobs:
 
 ***
 
-## 🔗 KHAN-AI INFO
+## 🔗 DEVIL KING 
 
   <p align="center">
 <a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=flat-square"></a>
